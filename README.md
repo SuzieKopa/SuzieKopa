@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuzieKopa
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Python and PHP
+- 🌱 I’m currently learning Python,PHP and JAVA
 - 💞️ I’m looking to collaborate on IA 
 - 📫 How to reach me suziekopa@gmail.com
 
